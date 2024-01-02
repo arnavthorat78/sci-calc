@@ -58,7 +58,7 @@ class Calculator {
   }
 }
 
-console.log("[~] Calculator [~]");
+console.log("[~] Calculator");
 console.log("[~] Written in JavaScript from undefinedcode's C++ code\n");
 
 const num1 = Number(prompt("[+] Enter first number: ", NaN));
